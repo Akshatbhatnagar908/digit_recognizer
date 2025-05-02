@@ -104,3 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 **Akshat Bhatnagar** - *Future of Data Science* 🚀
 
+https://www.linkedin.com/in/akshatbhatnagar908/
